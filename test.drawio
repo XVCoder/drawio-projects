@@ -4,19 +4,34 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MSPF_-7gTQST7HYo3n2n-2" value="结束" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="369" y="320" width="90" height="40" as="geometry" />
+        <mxCell id="MSPF_-7gTQST7HYo3n2n-2" value="结束" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
+          <mxGeometry x="105" y="300" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MSPF_-7gTQST7HYo3n2n-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MSPF_-7gTQST7HYo3n2n-3" target="MSPF_-7gTQST7HYo3n2n-4">
+        <mxCell id="MSPF_-7gTQST7HYo3n2n-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MSPF_-7gTQST7HYo3n2n-3" target="MSPF_-7gTQST7HYo3n2n-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MSPF_-7gTQST7HYo3n2n-3" value="开始" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="369" y="80" width="90" height="40" as="geometry" />
+        <mxCell id="MSPF_-7gTQST7HYo3n2n-3" value="开始" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
+          <mxGeometry x="105" y="60" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MSPF_-7gTQST7HYo3n2n-4" value="测试" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="354" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="MSPF_-7gTQST7HYo3n2n-4" value="测试" style="whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MSPF_-7gTQST7HYo3n2n-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-20;entryPerimeter=0;" edge="1" parent="1" source="MSPF_-7gTQST7HYo3n2n-4" target="MSPF_-7gTQST7HYo3n2n-2">
+        <mxCell id="MSPF_-7gTQST7HYo3n2n-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-20;entryPerimeter=0;" parent="1" source="MSPF_-7gTQST7HYo3n2n-4" target="MSPF_-7gTQST7HYo3n2n-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EaCHvDl-a3LXKXRByT8D-1" value="结束" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="295" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaCHvDl-a3LXKXRByT8D-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EaCHvDl-a3LXKXRByT8D-3" target="EaCHvDl-a3LXKXRByT8D-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EaCHvDl-a3LXKXRByT8D-3" value="开始" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="295" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaCHvDl-a3LXKXRByT8D-4" value="测试" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EaCHvDl-a3LXKXRByT8D-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-20;entryPerimeter=0;" edge="1" parent="1" source="EaCHvDl-a3LXKXRByT8D-4" target="EaCHvDl-a3LXKXRByT8D-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
